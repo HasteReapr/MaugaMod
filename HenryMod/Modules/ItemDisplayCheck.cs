@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace HenryMod.Modules
+namespace MaugaMod.Modules
 {
     internal static class ItemDisplayCheck
     {

@@ -1,7 +1,7 @@
 ﻿using EntityStates;
 using System;
 
-namespace HenryMod.Modules.BaseStates
+namespace MaugaMod.Modules.BaseStates
 {
     //see example skills below
     public class BaseTimedSkillState : BaseSkillState

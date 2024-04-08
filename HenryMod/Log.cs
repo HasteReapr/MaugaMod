@@ -2,7 +2,7 @@
 using System.Security;
 using System.Security.Permissions;
 
-namespace HenryMod
+namespace MaugaMod
 {
     internal static class Log
     {

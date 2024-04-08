@@ -2,11 +2,11 @@
 using BepInEx.Configuration;
 using UnityEngine;
 
-namespace HenryMod.Modules
+namespace MaugaMod.Modules
 {
     public static class Config
     {
-        public static ConfigFile MyConfig = HenryPlugin.instance.Config;
+        public static ConfigFile MyConfig = MaugaPlugin.instance.Config;
 
         /// <summary>
         /// automatically makes config entries for disabling survivors
